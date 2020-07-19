@@ -3,7 +3,7 @@
 
 Based off Electron starter.
 
-* X-plaform. (Win, Mac, Linux)
+* X-platform. (Win, Mac, Linux)
 
 To run:
 
