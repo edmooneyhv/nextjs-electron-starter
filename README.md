@@ -3,7 +3,7 @@
 
 Demos:
 
-/sample
+/sample1
 @see readme
 
 cd /nextjs-blog
