@@ -1,4 +1,4 @@
-#NextJS Electron Starter
+# NextJS Electron Starter
 
 
 Demos:
