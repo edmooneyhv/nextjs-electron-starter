@@ -31,7 +31,8 @@ app.on('ready', () => {
     })
   })
 
-  mainWindow.loadURL('https://vertexinc.com')
+  //mainWindow.loadURL('https://vertexinc.com')
+  mainWindow.loadURL('https://di.vertexsmb.com/dm-integrity-ui')
 
  // add the edit window
    const template = [
