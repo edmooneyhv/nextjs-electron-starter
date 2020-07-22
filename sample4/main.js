@@ -48,7 +48,7 @@ app.on('ready', () => {
       ]
     },
     {
-      label: 'Go Offline',
+      label: 'Go Online',
       submenu: [
         {
           label: 'Update',
