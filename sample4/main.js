@@ -48,10 +48,10 @@ app.on('ready', () => {
       ]
     },
     {
-      label: 'Placeholder',
+      label: 'Go Offline',
       submenu: [
         {
-          label: 'Logging Handler',
+          label: 'Update',
           click () {
             console.log('custom...')
           }
