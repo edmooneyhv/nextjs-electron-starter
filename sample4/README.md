@@ -1,5 +1,6 @@
 # nextjs-electron-starter
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/<your-org>/<your-project>)
 
 Based off Electron starter.
 
