@@ -1,0 +1,2 @@
+tasks:
+  - command: cd /sample4 && npm run dev | npm run electron-start
