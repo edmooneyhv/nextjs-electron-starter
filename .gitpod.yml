@@ -1,2 +1,8 @@
+ports:
+  - port: 3000
+  - port: 8000
+
 tasks:
-  - command: cd ./sample4 && npm install && npm start
+- name: Server
+  command: |
+    cd ./sample4 && npm install && npm start
