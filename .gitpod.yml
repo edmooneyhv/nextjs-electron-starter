@@ -1,8 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
 ports:
 - port: 3000
 - port: 8000
 
-tasks:
-- name: Server
-  command: |
-    cd ./sample4 && npm install && npm start
+#tasks:
+#- name: Server
+#  command: |
+#    cd ./sample4 && npm install && npm start
+
+ 
